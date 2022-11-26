@@ -1,0 +1,3 @@
+[submodule "studiocf"]
+	path = studiocf
+	url = https://github.com/zamasaur/studiocf.git
